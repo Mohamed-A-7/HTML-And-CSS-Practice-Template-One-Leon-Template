@@ -232,14 +232,11 @@ header .links .menu li a {
 .portfolio .portfolio-content .box {
     background-color: #fff;
     border-radius: 10px;
+    overflow: hidden;
     transition: var(--main-duration);
 }
 .portfolio .portfolio-content .box:hover {
     margin: -20px 0 20px;
-}
-.portfolio .portfolio-content .box img {
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
 }
 .portfolio .portfolio-content .box .text {
     padding: .4rem 2rem .8rem;
