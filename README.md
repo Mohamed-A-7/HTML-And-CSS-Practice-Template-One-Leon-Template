@@ -13,7 +13,7 @@ Leon is a simple and elegant HTML/CSS template that includes various sections su
 
 ## Table of Contents
 
-- [Live Demo](#live-demo)
+- [Live Demo](https://mohamed-ali-99.github.io/HTML-And-CSS-Practice-Template-One-Leon-Template/)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
@@ -30,4 +30,4 @@ You can view a live demo of the template [here](#).
 To use this template, you can download it or clone it from the GitHub repository.
 
 ```bash
-git clone https://github.com/your-username/leon-template-one.git
+git clone https://github.com/Mohamed-Ali-99/HTML-And-CSS-Practice-Template-One-Leon-Template.git
